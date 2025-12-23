@@ -40,6 +40,9 @@ python main.py
 1. 在 Telegram 中找到 @userinfobot
 2. 发送任意消息即可获取你的用户 ID
 
+## 有问题联系
+飞机@dounaishushu
+
 ## 产品截图
 ![74c9c7704c885e09c66eda7c074760e7](https://github.com/user-attachments/assets/9202f0f7-9494-4ad5-984d-6cc7409677fb)
 
@@ -56,3 +59,4 @@ python main.py
 ![f9dafe2602400bf3e326248af0e48674](https://github.com/user-attachments/assets/cc7b1fad-2576-4179-954c-8c0c53f03797)
 
 <img width="2039" height="808" alt="bccadb3e35a43c594790b83029796285" src="https://github.com/user-attachments/assets/31221903-607f-4abc-96af-1076a1bc00d5" />
+
